@@ -127,6 +127,10 @@ main a {
     padding: 2px 6px;
 }
 
+main a:hover {
+    color: var(--cor4);
+}
+
 main img {
     width: 100%;
 }
